@@ -1,5 +1,5 @@
 {
-  "name": "dom-attributes-to-react-props",
+  "name": "html-dom-attributes-to-react-props",
   "version": "1.0.0",
   "description": "Convert HTML DOM attributes to React props",
   "main": "index.js",
