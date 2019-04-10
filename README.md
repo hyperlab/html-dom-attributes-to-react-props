@@ -1,2 +1,4 @@
-properties.json is a direct JSON.stringify from the variable called properties in react-dom.development.js.
-It is then converted to a mapping from HTML attribute name to React property name using the script convertPropertiesJson.js
+# HTML DOM Attributes to React Props
+This package converts HTML DOM Attributes to React Props using the mapping between HTML attributes and React props used in the React DOM library.
+This means changing the name from `font-size` to `fontSize`, and actually make boolean values true booleans for the attributes that support it.
+It will let all unknown attributes pass without modification.

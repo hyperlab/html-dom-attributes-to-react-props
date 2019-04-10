@@ -1,15 +1,31 @@
 const fs = require("fs");
-const properties = require("../data/properties.json");
+const path = require("path");
+const properties = require("./properties.json");
 
 const attributes = Object.values(properties).reduce(
-  (acc, cur) => ({
-    ...acc,
-    [cur.attributeName]: cur.propertyName
-  }),
+  (acc, { attributeName, propertyName }) => {
+    if (attributeName === propertyName) {
+      return acc;
+    } else {
+      return {
+        ...acc,
+        [attributeName]: propertyName
+      };
+    }
+  },
   {}
 );
 
 fs.writeFileSync(
-  "../data/attributes.json",
+  path.resolve(__dirname, "../src/attributes.json"),
   JSON.stringify(attributes, undefined, 2)
+);
+
+const booleans = Object.values(properties)
+  .filter(property => property.acceptsBooleans)
+  .map(property => property.propertyName);
+
+fs.writeFileSync(
+  path.resolve(__dirname, "../src/booleans.json"),
+  JSON.stringify(booleans, undefined, 2)
 );

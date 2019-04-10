@@ -7,5 +7,15 @@
   "license": "MIT",
   "dependencies": {
     "style-to-object": "^0.2.2"
-  }
+  },
+  "devDependencies": {
+    "rollup": "^1.9.3",
+    "rollup-plugin-commonjs": "^9.3.4",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^4.2.2",
+    "rollup-plugin-terser": "^4.0.4"
+  },
+  "files": [
+    "dist/"
+  ]
 }
