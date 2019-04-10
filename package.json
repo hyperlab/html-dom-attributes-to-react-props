@@ -1,0 +1,11 @@
+{
+  "name": "dom-attributes-to-react-props",
+  "version": "1.0.0",
+  "description": "Convert HTML DOM attributes to React props",
+  "main": "index.js",
+  "author": "Alfred Ringstad",
+  "license": "MIT",
+  "dependencies": {
+    "style-to-object": "^0.2.2"
+  }
+}

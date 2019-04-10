@@ -1,0 +1,1106 @@
+{
+  "children": {
+    "acceptsBooleans": false,
+    "attributeName": "children",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "children",
+    "type": 0
+  },
+  "dangerouslySetInnerHTML": {
+    "acceptsBooleans": false,
+    "attributeName": "dangerouslySetInnerHTML",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "dangerouslySetInnerHTML",
+    "type": 0
+  },
+  "defaultValue": {
+    "acceptsBooleans": false,
+    "attributeName": "defaultValue",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "defaultValue",
+    "type": 0
+  },
+  "defaultChecked": {
+    "acceptsBooleans": false,
+    "attributeName": "defaultChecked",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "defaultChecked",
+    "type": 0
+  },
+  "innerHTML": {
+    "acceptsBooleans": false,
+    "attributeName": "innerHTML",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "innerHTML",
+    "type": 0
+  },
+  "suppressContentEditableWarning": {
+    "acceptsBooleans": false,
+    "attributeName": "suppressContentEditableWarning",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "suppressContentEditableWarning",
+    "type": 0
+  },
+  "suppressHydrationWarning": {
+    "acceptsBooleans": false,
+    "attributeName": "suppressHydrationWarning",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "suppressHydrationWarning",
+    "type": 0
+  },
+  "style": {
+    "acceptsBooleans": false,
+    "attributeName": "style",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "style",
+    "type": 0
+  },
+  "acceptCharset": {
+    "acceptsBooleans": false,
+    "attributeName": "accept-charset",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "acceptCharset",
+    "type": 1
+  },
+  "className": {
+    "acceptsBooleans": false,
+    "attributeName": "class",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "className",
+    "type": 1
+  },
+  "htmlFor": {
+    "acceptsBooleans": false,
+    "attributeName": "for",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "htmlFor",
+    "type": 1
+  },
+  "httpEquiv": {
+    "acceptsBooleans": false,
+    "attributeName": "http-equiv",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "httpEquiv",
+    "type": 1
+  },
+  "contentEditable": {
+    "acceptsBooleans": true,
+    "attributeName": "contenteditable",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "contentEditable",
+    "type": 2
+  },
+  "draggable": {
+    "acceptsBooleans": true,
+    "attributeName": "draggable",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "draggable",
+    "type": 2
+  },
+  "spellCheck": {
+    "acceptsBooleans": true,
+    "attributeName": "spellcheck",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "spellCheck",
+    "type": 2
+  },
+  "value": {
+    "acceptsBooleans": true,
+    "attributeName": "value",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "value",
+    "type": 2
+  },
+  "autoReverse": {
+    "acceptsBooleans": true,
+    "attributeName": "autoReverse",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "autoReverse",
+    "type": 2
+  },
+  "externalResourcesRequired": {
+    "acceptsBooleans": true,
+    "attributeName": "externalResourcesRequired",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "externalResourcesRequired",
+    "type": 2
+  },
+  "focusable": {
+    "acceptsBooleans": true,
+    "attributeName": "focusable",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "focusable",
+    "type": 2
+  },
+  "preserveAlpha": {
+    "acceptsBooleans": true,
+    "attributeName": "preserveAlpha",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "preserveAlpha",
+    "type": 2
+  },
+  "allowFullScreen": {
+    "acceptsBooleans": true,
+    "attributeName": "allowfullscreen",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "allowFullScreen",
+    "type": 3
+  },
+  "async": {
+    "acceptsBooleans": true,
+    "attributeName": "async",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "async",
+    "type": 3
+  },
+  "autoFocus": {
+    "acceptsBooleans": true,
+    "attributeName": "autofocus",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "autoFocus",
+    "type": 3
+  },
+  "autoPlay": {
+    "acceptsBooleans": true,
+    "attributeName": "autoplay",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "autoPlay",
+    "type": 3
+  },
+  "controls": {
+    "acceptsBooleans": true,
+    "attributeName": "controls",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "controls",
+    "type": 3
+  },
+  "default": {
+    "acceptsBooleans": true,
+    "attributeName": "default",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "default",
+    "type": 3
+  },
+  "defer": {
+    "acceptsBooleans": true,
+    "attributeName": "defer",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "defer",
+    "type": 3
+  },
+  "disabled": {
+    "acceptsBooleans": true,
+    "attributeName": "disabled",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "disabled",
+    "type": 3
+  },
+  "formNoValidate": {
+    "acceptsBooleans": true,
+    "attributeName": "formnovalidate",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "formNoValidate",
+    "type": 3
+  },
+  "hidden": {
+    "acceptsBooleans": true,
+    "attributeName": "hidden",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "hidden",
+    "type": 3
+  },
+  "loop": {
+    "acceptsBooleans": true,
+    "attributeName": "loop",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "loop",
+    "type": 3
+  },
+  "noModule": {
+    "acceptsBooleans": true,
+    "attributeName": "nomodule",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "noModule",
+    "type": 3
+  },
+  "noValidate": {
+    "acceptsBooleans": true,
+    "attributeName": "novalidate",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "noValidate",
+    "type": 3
+  },
+  "open": {
+    "acceptsBooleans": true,
+    "attributeName": "open",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "open",
+    "type": 3
+  },
+  "playsInline": {
+    "acceptsBooleans": true,
+    "attributeName": "playsinline",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "playsInline",
+    "type": 3
+  },
+  "readOnly": {
+    "acceptsBooleans": true,
+    "attributeName": "readonly",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "readOnly",
+    "type": 3
+  },
+  "required": {
+    "acceptsBooleans": true,
+    "attributeName": "required",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "required",
+    "type": 3
+  },
+  "reversed": {
+    "acceptsBooleans": true,
+    "attributeName": "reversed",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "reversed",
+    "type": 3
+  },
+  "scoped": {
+    "acceptsBooleans": true,
+    "attributeName": "scoped",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "scoped",
+    "type": 3
+  },
+  "seamless": {
+    "acceptsBooleans": true,
+    "attributeName": "seamless",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "seamless",
+    "type": 3
+  },
+  "itemScope": {
+    "acceptsBooleans": true,
+    "attributeName": "itemscope",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "itemScope",
+    "type": 3
+  },
+  "checked": {
+    "acceptsBooleans": true,
+    "attributeName": "checked",
+    "attributeNamespace": null,
+    "mustUseProperty": true,
+    "propertyName": "checked",
+    "type": 3
+  },
+  "multiple": {
+    "acceptsBooleans": true,
+    "attributeName": "multiple",
+    "attributeNamespace": null,
+    "mustUseProperty": true,
+    "propertyName": "multiple",
+    "type": 3
+  },
+  "muted": {
+    "acceptsBooleans": true,
+    "attributeName": "muted",
+    "attributeNamespace": null,
+    "mustUseProperty": true,
+    "propertyName": "muted",
+    "type": 3
+  },
+  "selected": {
+    "acceptsBooleans": true,
+    "attributeName": "selected",
+    "attributeNamespace": null,
+    "mustUseProperty": true,
+    "propertyName": "selected",
+    "type": 3
+  },
+  "capture": {
+    "acceptsBooleans": true,
+    "attributeName": "capture",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "capture",
+    "type": 4
+  },
+  "download": {
+    "acceptsBooleans": true,
+    "attributeName": "download",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "download",
+    "type": 4
+  },
+  "cols": {
+    "acceptsBooleans": false,
+    "attributeName": "cols",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "cols",
+    "type": 6
+  },
+  "rows": {
+    "acceptsBooleans": false,
+    "attributeName": "rows",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "rows",
+    "type": 6
+  },
+  "size": {
+    "acceptsBooleans": false,
+    "attributeName": "size",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "size",
+    "type": 6
+  },
+  "span": {
+    "acceptsBooleans": false,
+    "attributeName": "span",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "span",
+    "type": 6
+  },
+  "rowSpan": {
+    "acceptsBooleans": false,
+    "attributeName": "rowspan",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "rowSpan",
+    "type": 5
+  },
+  "start": {
+    "acceptsBooleans": false,
+    "attributeName": "start",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "start",
+    "type": 5
+  },
+  "accentHeight": {
+    "acceptsBooleans": false,
+    "attributeName": "accent-height",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "accentHeight",
+    "type": 1
+  },
+  "alignmentBaseline": {
+    "acceptsBooleans": false,
+    "attributeName": "alignment-baseline",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "alignmentBaseline",
+    "type": 1
+  },
+  "arabicForm": {
+    "acceptsBooleans": false,
+    "attributeName": "arabic-form",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "arabicForm",
+    "type": 1
+  },
+  "baselineShift": {
+    "acceptsBooleans": false,
+    "attributeName": "baseline-shift",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "baselineShift",
+    "type": 1
+  },
+  "capHeight": {
+    "acceptsBooleans": false,
+    "attributeName": "cap-height",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "capHeight",
+    "type": 1
+  },
+  "clipPath": {
+    "acceptsBooleans": false,
+    "attributeName": "clip-path",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "clipPath",
+    "type": 1
+  },
+  "clipRule": {
+    "acceptsBooleans": false,
+    "attributeName": "clip-rule",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "clipRule",
+    "type": 1
+  },
+  "colorInterpolation": {
+    "acceptsBooleans": false,
+    "attributeName": "color-interpolation",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "colorInterpolation",
+    "type": 1
+  },
+  "colorInterpolationFilters": {
+    "acceptsBooleans": false,
+    "attributeName": "color-interpolation-filters",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "colorInterpolationFilters",
+    "type": 1
+  },
+  "colorProfile": {
+    "acceptsBooleans": false,
+    "attributeName": "color-profile",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "colorProfile",
+    "type": 1
+  },
+  "colorRendering": {
+    "acceptsBooleans": false,
+    "attributeName": "color-rendering",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "colorRendering",
+    "type": 1
+  },
+  "dominantBaseline": {
+    "acceptsBooleans": false,
+    "attributeName": "dominant-baseline",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "dominantBaseline",
+    "type": 1
+  },
+  "enableBackground": {
+    "acceptsBooleans": false,
+    "attributeName": "enable-background",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "enableBackground",
+    "type": 1
+  },
+  "fillOpacity": {
+    "acceptsBooleans": false,
+    "attributeName": "fill-opacity",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fillOpacity",
+    "type": 1
+  },
+  "fillRule": {
+    "acceptsBooleans": false,
+    "attributeName": "fill-rule",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fillRule",
+    "type": 1
+  },
+  "floodColor": {
+    "acceptsBooleans": false,
+    "attributeName": "flood-color",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "floodColor",
+    "type": 1
+  },
+  "floodOpacity": {
+    "acceptsBooleans": false,
+    "attributeName": "flood-opacity",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "floodOpacity",
+    "type": 1
+  },
+  "fontFamily": {
+    "acceptsBooleans": false,
+    "attributeName": "font-family",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontFamily",
+    "type": 1
+  },
+  "fontSize": {
+    "acceptsBooleans": false,
+    "attributeName": "font-size",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontSize",
+    "type": 1
+  },
+  "fontSizeAdjust": {
+    "acceptsBooleans": false,
+    "attributeName": "font-size-adjust",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontSizeAdjust",
+    "type": 1
+  },
+  "fontStretch": {
+    "acceptsBooleans": false,
+    "attributeName": "font-stretch",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontStretch",
+    "type": 1
+  },
+  "fontStyle": {
+    "acceptsBooleans": false,
+    "attributeName": "font-style",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontStyle",
+    "type": 1
+  },
+  "fontVariant": {
+    "acceptsBooleans": false,
+    "attributeName": "font-variant",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontVariant",
+    "type": 1
+  },
+  "fontWeight": {
+    "acceptsBooleans": false,
+    "attributeName": "font-weight",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "fontWeight",
+    "type": 1
+  },
+  "glyphName": {
+    "acceptsBooleans": false,
+    "attributeName": "glyph-name",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "glyphName",
+    "type": 1
+  },
+  "glyphOrientationHorizontal": {
+    "acceptsBooleans": false,
+    "attributeName": "glyph-orientation-horizontal",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "glyphOrientationHorizontal",
+    "type": 1
+  },
+  "glyphOrientationVertical": {
+    "acceptsBooleans": false,
+    "attributeName": "glyph-orientation-vertical",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "glyphOrientationVertical",
+    "type": 1
+  },
+  "horizAdvX": {
+    "acceptsBooleans": false,
+    "attributeName": "horiz-adv-x",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "horizAdvX",
+    "type": 1
+  },
+  "horizOriginX": {
+    "acceptsBooleans": false,
+    "attributeName": "horiz-origin-x",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "horizOriginX",
+    "type": 1
+  },
+  "imageRendering": {
+    "acceptsBooleans": false,
+    "attributeName": "image-rendering",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "imageRendering",
+    "type": 1
+  },
+  "letterSpacing": {
+    "acceptsBooleans": false,
+    "attributeName": "letter-spacing",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "letterSpacing",
+    "type": 1
+  },
+  "lightingColor": {
+    "acceptsBooleans": false,
+    "attributeName": "lighting-color",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "lightingColor",
+    "type": 1
+  },
+  "markerEnd": {
+    "acceptsBooleans": false,
+    "attributeName": "marker-end",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "markerEnd",
+    "type": 1
+  },
+  "markerMid": {
+    "acceptsBooleans": false,
+    "attributeName": "marker-mid",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "markerMid",
+    "type": 1
+  },
+  "markerStart": {
+    "acceptsBooleans": false,
+    "attributeName": "marker-start",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "markerStart",
+    "type": 1
+  },
+  "overlinePosition": {
+    "acceptsBooleans": false,
+    "attributeName": "overline-position",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "overlinePosition",
+    "type": 1
+  },
+  "overlineThickness": {
+    "acceptsBooleans": false,
+    "attributeName": "overline-thickness",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "overlineThickness",
+    "type": 1
+  },
+  "paintOrder": {
+    "acceptsBooleans": false,
+    "attributeName": "paint-order",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "paintOrder",
+    "type": 1
+  },
+  "panose-1": {
+    "acceptsBooleans": false,
+    "attributeName": "panose-1",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "panose-1",
+    "type": 1
+  },
+  "pointerEvents": {
+    "acceptsBooleans": false,
+    "attributeName": "pointer-events",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "pointerEvents",
+    "type": 1
+  },
+  "renderingIntent": {
+    "acceptsBooleans": false,
+    "attributeName": "rendering-intent",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "renderingIntent",
+    "type": 1
+  },
+  "shapeRendering": {
+    "acceptsBooleans": false,
+    "attributeName": "shape-rendering",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "shapeRendering",
+    "type": 1
+  },
+  "stopColor": {
+    "acceptsBooleans": false,
+    "attributeName": "stop-color",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "stopColor",
+    "type": 1
+  },
+  "stopOpacity": {
+    "acceptsBooleans": false,
+    "attributeName": "stop-opacity",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "stopOpacity",
+    "type": 1
+  },
+  "strikethroughPosition": {
+    "acceptsBooleans": false,
+    "attributeName": "strikethrough-position",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strikethroughPosition",
+    "type": 1
+  },
+  "strikethroughThickness": {
+    "acceptsBooleans": false,
+    "attributeName": "strikethrough-thickness",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strikethroughThickness",
+    "type": 1
+  },
+  "strokeDasharray": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-dasharray",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeDasharray",
+    "type": 1
+  },
+  "strokeDashoffset": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-dashoffset",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeDashoffset",
+    "type": 1
+  },
+  "strokeLinecap": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-linecap",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeLinecap",
+    "type": 1
+  },
+  "strokeLinejoin": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-linejoin",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeLinejoin",
+    "type": 1
+  },
+  "strokeMiterlimit": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-miterlimit",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeMiterlimit",
+    "type": 1
+  },
+  "strokeOpacity": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-opacity",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeOpacity",
+    "type": 1
+  },
+  "strokeWidth": {
+    "acceptsBooleans": false,
+    "attributeName": "stroke-width",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "strokeWidth",
+    "type": 1
+  },
+  "textAnchor": {
+    "acceptsBooleans": false,
+    "attributeName": "text-anchor",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "textAnchor",
+    "type": 1
+  },
+  "textDecoration": {
+    "acceptsBooleans": false,
+    "attributeName": "text-decoration",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "textDecoration",
+    "type": 1
+  },
+  "textRendering": {
+    "acceptsBooleans": false,
+    "attributeName": "text-rendering",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "textRendering",
+    "type": 1
+  },
+  "underlinePosition": {
+    "acceptsBooleans": false,
+    "attributeName": "underline-position",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "underlinePosition",
+    "type": 1
+  },
+  "underlineThickness": {
+    "acceptsBooleans": false,
+    "attributeName": "underline-thickness",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "underlineThickness",
+    "type": 1
+  },
+  "unicodeBidi": {
+    "acceptsBooleans": false,
+    "attributeName": "unicode-bidi",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "unicodeBidi",
+    "type": 1
+  },
+  "unicodeRange": {
+    "acceptsBooleans": false,
+    "attributeName": "unicode-range",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "unicodeRange",
+    "type": 1
+  },
+  "unitsPerEm": {
+    "acceptsBooleans": false,
+    "attributeName": "units-per-em",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "unitsPerEm",
+    "type": 1
+  },
+  "vAlphabetic": {
+    "acceptsBooleans": false,
+    "attributeName": "v-alphabetic",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vAlphabetic",
+    "type": 1
+  },
+  "vHanging": {
+    "acceptsBooleans": false,
+    "attributeName": "v-hanging",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vHanging",
+    "type": 1
+  },
+  "vIdeographic": {
+    "acceptsBooleans": false,
+    "attributeName": "v-ideographic",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vIdeographic",
+    "type": 1
+  },
+  "vMathematical": {
+    "acceptsBooleans": false,
+    "attributeName": "v-mathematical",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vMathematical",
+    "type": 1
+  },
+  "vectorEffect": {
+    "acceptsBooleans": false,
+    "attributeName": "vector-effect",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vectorEffect",
+    "type": 1
+  },
+  "vertAdvY": {
+    "acceptsBooleans": false,
+    "attributeName": "vert-adv-y",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vertAdvY",
+    "type": 1
+  },
+  "vertOriginX": {
+    "acceptsBooleans": false,
+    "attributeName": "vert-origin-x",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vertOriginX",
+    "type": 1
+  },
+  "vertOriginY": {
+    "acceptsBooleans": false,
+    "attributeName": "vert-origin-y",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "vertOriginY",
+    "type": 1
+  },
+  "wordSpacing": {
+    "acceptsBooleans": false,
+    "attributeName": "word-spacing",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "wordSpacing",
+    "type": 1
+  },
+  "writingMode": {
+    "acceptsBooleans": false,
+    "attributeName": "writing-mode",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "writingMode",
+    "type": 1
+  },
+  "xmlnsXlink": {
+    "acceptsBooleans": false,
+    "attributeName": "xmlns:xlink",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "xmlnsXlink",
+    "type": 1
+  },
+  "xHeight": {
+    "acceptsBooleans": false,
+    "attributeName": "x-height",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "xHeight",
+    "type": 1
+  },
+  "xlinkActuate": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:actuate",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkActuate",
+    "type": 1
+  },
+  "xlinkArcrole": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:arcrole",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkArcrole",
+    "type": 1
+  },
+  "xlinkHref": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:href",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkHref",
+    "type": 1
+  },
+  "xlinkRole": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:role",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkRole",
+    "type": 1
+  },
+  "xlinkShow": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:show",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkShow",
+    "type": 1
+  },
+  "xlinkTitle": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:title",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkTitle",
+    "type": 1
+  },
+  "xlinkType": {
+    "acceptsBooleans": false,
+    "attributeName": "xlink:type",
+    "attributeNamespace": "http://www.w3.org/1999/xlink",
+    "mustUseProperty": false,
+    "propertyName": "xlinkType",
+    "type": 1
+  },
+  "xmlBase": {
+    "acceptsBooleans": false,
+    "attributeName": "xml:base",
+    "attributeNamespace": "http://www.w3.org/XML/1998/namespace",
+    "mustUseProperty": false,
+    "propertyName": "xmlBase",
+    "type": 1
+  },
+  "xmlLang": {
+    "acceptsBooleans": false,
+    "attributeName": "xml:lang",
+    "attributeNamespace": "http://www.w3.org/XML/1998/namespace",
+    "mustUseProperty": false,
+    "propertyName": "xmlLang",
+    "type": 1
+  },
+  "xmlSpace": {
+    "acceptsBooleans": false,
+    "attributeName": "xml:space",
+    "attributeNamespace": "http://www.w3.org/XML/1998/namespace",
+    "mustUseProperty": false,
+    "propertyName": "xmlSpace",
+    "type": 1
+  },
+  "tabIndex": {
+    "acceptsBooleans": false,
+    "attributeName": "tabindex",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "tabIndex",
+    "type": 1
+  },
+  "crossOrigin": {
+    "acceptsBooleans": false,
+    "attributeName": "crossorigin",
+    "attributeNamespace": null,
+    "mustUseProperty": false,
+    "propertyName": "crossOrigin",
+    "type": 1
+  }
+}
