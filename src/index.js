@@ -1,6 +1,6 @@
-import styleParser from 'style-to-object';
-import attributesMap from './attributes.json';
-import booleans from './booleans.json';
+import styleParser from "style-to-object";
+import attributesMap from "./attributes.json";
+import booleans from "./booleans.json";
 
 function attributesToProps(attributes) {
   const props = {};
@@ -11,9 +11,7 @@ function attributesToProps(attributes) {
     const propertyName = attributesMap[attribute.toLowerCase()];
 
     if (propertyName) {
-      if (propertyName === "style") {
-        props[propertyName] = styleParser(value);
-      } else if (booleans.indexOf(propertyName) > -1) {
+      if (booleans.indexOf(propertyName) > -1) {
         if (value === "false") {
           props[propertyName] = false;
         } else {
@@ -22,6 +20,8 @@ function attributesToProps(attributes) {
       } else {
         props[propertyName] = value;
       }
+    } else if (attribute.toLowerCase() === "style") {
+      props[propertyName] = styleParser(value);
     } else {
       props[attribute] = value;
     }
