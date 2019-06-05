@@ -21,7 +21,7 @@ function attributesToProps(attributes) {
         props[propertyName] = value;
       }
     } else if (attribute.toLowerCase() === "style") {
-      props[propertyName] = styleParser(value);
+      props["style"] = styleParser(value);
     } else {
       props[attribute] = value;
     }
