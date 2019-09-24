@@ -5,7 +5,7 @@ import booleans from "./booleans.json";
 function attributesToProps(attributes) {
   const props = {};
 
-  Object.keys(attributes).forEach(attribute => {
+  Object.keys(attributes).forEach(function(attribute) {
     const value = attributes[attribute];
 
     const propertyName = attributesMap[attribute.toLowerCase()];
